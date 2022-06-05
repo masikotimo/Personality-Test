@@ -1,4 +1,6 @@
-## Available Scripts
+## Personality Test
+
+This is a Front end only personality test project
 
 In the project directory, you can run:
 
